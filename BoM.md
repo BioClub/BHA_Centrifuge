@@ -23,7 +23,7 @@ No|Amount|Description|Supplier NL|Cost
 16|1|I2C LCD 液晶|[Akizuki](http://akizukidenshi.com/catalog/g/gK-08896/)|8.95|
 |17|2|10kΩ 抵抗|[Akizuki](http://akizukidenshi.com/catalog/g/gR-25103/)|0.6
 |18|2|0.01μF コンデンサ|[Akizuki](http://akizukidenshi.com/catalog/g/gP-11150/)|0.14
-|19|2|0.1μF キャパシタ|[Farnell](http://akizukidenshi.com/catalog/g/gP-11154/)|0.14
+|19|2|0.1μF コンデンサ|[Farnell](http://akizukidenshi.com/catalog/g/gP-11154/)|0.14
 |20|1|ブレッドボード|[Monotaro](https://www.monotaro.com/g/00345713/?t.q=%83u%83%8C%83b%83h%83%7B%81%5B%83h),[Amazon](http://amzn.asia/0K5IeCB)|2.56|
 
 *Estimate total*: EUR 73.41 
